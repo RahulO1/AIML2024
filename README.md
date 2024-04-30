@@ -5,6 +5,6 @@
 # Week3 Assignment 1: https://github.com/RahulO1/AIML2024/blob/main/2203A51439_Task%5B3%5D.ipynb
 # ML Assignment 1: https://github.com/RahulO1/AIML2024/blob/main/2203A51439_ML_Asignment_1.ipynb
 # ML Assignment 2: https://github.com/RahulO1/AIML2024/blob/main/2203A51439_ML_Assignment_2.ipynb
-# ML Assignment 5: https://github.com/RahulO1/AIML2024/blob/main/2203A51439_ML_Assignment_5.ipynb
 # ML Assignment 4: https://github.com/RahulO1/AIML2024/blob/main/2203A51439_ML_Assignment4.pdf
+# ML Assignment 5: https://github.com/RahulO1/AIML2024/blob/main/2203A51439_ML_Assignment_5.ipynb
 # ML Assignment 6: https://github.com/RahulO1/AIML2024/blob/main/2203A51439_ML_Assignment-6.pdf
